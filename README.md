@@ -3,7 +3,7 @@
 # About ME
 ### My name is Aditya Ramakrishnan and I'm a university student studying Computer Science at Mizzou. You can find me on:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ar044)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ar044/)
 
 ## My Projects:
 
