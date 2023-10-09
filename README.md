@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=29&duration=3000&pause=1000&color=FF5A60&width=450&lines=Hi!+My+name+is+Aditya.;Thanks+for+visiting+my+Github!)](https://git.io/typing-svg)
 
 # About ME
-### My name is Aditya Ramakrishnan and I'm a university student studying Computer Science at Mizzou. You can find me on:
+# My name is Aditya Ramakrishnan and I'm a university student studying Computer Science at Mizzou. You can find me on:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ar044/)
 
